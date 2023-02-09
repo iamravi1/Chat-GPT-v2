@@ -1,6 +1,6 @@
 # Chat-GPT-v2
 
-### Link :link: [https://deft-alfajores-76d366.netlify.app/](https://velvety-ganache-21561c.netlify.app/)
+### Link :link: [https://heartfelt-croquembouche-36d140.netlify.app/](https://heartfelt-croquembouche-36d140.netlify.app/)
 
 
 ---
