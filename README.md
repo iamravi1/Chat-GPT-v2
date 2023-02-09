@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<img src="./openai/demo1.png" width="400">
+<img src="./demo1.png" width="400">
 </div>
 
 ## Features
